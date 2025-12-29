@@ -1,22 +1,16 @@
-## 🛠️ What’s Inside (GitHub Wiki Navigation)
-I have structured this portfolio to mirror a real-world QA workflow. Click the links below to explore specific technical artifacts in the **Wiki** section:
+## 🧭 Portfolio Navigation (GitHub Wiki)
+The **[Wiki Section](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)** is organized into specialized categories to demonstrate specific technical competencies. Use the tables on the Home page or the Sidebar to explore:
 
-### 📑 [Test Documentation & Strategy](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/Test-Documentation)
-* **Real-World Scenarios:** Detailed test cases and checklists for live web and mobile applications.
-* **Defect Management:** Examples of high-quality bug reports featuring logs, environment details, and clear reproduction steps.
-* **Traceability:** Demonstrating how I map requirements to test coverage.
+### 🌐 Web & Mobile Ecosystems
+* **Production-Grade Testing:** End-to-end flows, regression, and usability on live applications.
+* **Technical Evidence:** Integration of Chrome DevTools, Charles Proxy, and system logs (Kibana) into the defect lifecycle.
 
-### 🔌 [API & Backend Validation](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/API-Testing)
-* **Postman Collections:** Practical execution of GET, POST, PUT, and DELETE requests.
-* **Integrity Checks:** Validation of JSON schemas, status codes, and data consistency across client-server interactions.
+### 🔌 API & Backend Integrity
+* **Protocol Validation:** REST API testing using Postman and Swagger (GET, POST, PUT, DELETE).
+* **Data Consistency:** SQL-based verification between UI, API responses, and database layers.
 
-### 🗄️ [Database & Log Analysis](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki/SQL-and-Logs)
-* **SQL Mastery:** Scripts used for backend validation and data integrity testing between the UI and MySQL databases.
-* **Root Cause Analysis:** Real examples of using **Elastic Stack (Kibana)** and **Chrome DevTools** to pinpoint failures in system logs.
+### 📑 Documentation & Strategy
+* **Test Artifacts:** Structured test cases, checklists, and bug reports designed for maximum developer clarity.
 
 ---
-
-## 📈 Testing Philosophy
-* **User-Centric:** Focusing on core user flows and edge cases that impact business revenue.
-* **Evidence-Based:** Every bug report is backed by logs, network traces, and visual evidence (using Charles Proxy and DevTools).
-* **Continuous Improvement:** My background in programming helps me understand application logic and developer workflows, speeding up the debugging process.
+**[Explore All Projects in Wiki →](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)**
