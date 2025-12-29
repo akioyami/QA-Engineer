@@ -1,5 +1,5 @@
 ## 🧭 Portfolio Navigation (GitHub Wiki)
-The **[Wiki Section](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)** is organized into specialized categories to demonstrate specific technical competencies. Use the tables on the Home page or the Sidebar to explore:
+The **[Wiki Section](https://github.com/akioyami/QA-Engineer/wiki)** is organized into specialized categories to demonstrate specific technical competencies. Use the tables on the Home page or the Sidebar to explore:
 
 ### 🌐 Web & Mobile Ecosystems
 * **Production-Grade Testing:** End-to-end flows, regression, and usability on live applications.
@@ -13,4 +13,4 @@ The **[Wiki Section](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)** is organ
 * **Test Artifacts:** Structured test cases, checklists, and bug reports designed for maximum developer clarity.
 
 ---
-**[Explore All Projects in Wiki →](https://github.com/YOUR_USERNAME/YOUR_REPO/wiki)**
+**[Explore All Projects in Wiki →](https://github.com/akioyami/QA-Engineer/wiki)**
